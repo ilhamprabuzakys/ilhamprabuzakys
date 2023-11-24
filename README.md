@@ -4,8 +4,6 @@
   
 </div>
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <b>About Me</b>
 
 - 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
