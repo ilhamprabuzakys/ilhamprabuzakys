@@ -8,7 +8,6 @@
 <br><br>
 [![linkedin badge](https://img.shields.io/badge/ilhamprabuzakys-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ilhamprabuzakys/)
 [![Gmail Badge](https://img.shields.io/badge/ilhamprabuzakys@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ilhamprabuzakys@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=ilhamprabuzakys&style=plastic" />
 
 - 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
 
