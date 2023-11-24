@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ilham prabu</h1>
 <h4 align="center">An Enthusist <b>Web Developer</b> and also a Linux Geeks!</div>
-<h5 align="center">Look at my <a href="https://github.com/ilhamprabuzakys/ilhamprabuzakys/blob/master/assets/files/Ilham%20Prabu%20Zaky%20S_CV_RESUME.pdf" target="_blank">resume</a> for more details.</h5>
+<h5 align="center">Look at my <a href="https://drive.google.com/file/d/167tJpB4JmUZbwasqcVOQH-JRdrXo650k/view?usp=drive_link" target="_blank">resume</a> for more details.</h5>
 
 <div align="center">
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
