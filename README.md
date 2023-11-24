@@ -23,11 +23,7 @@
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
-- <img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="ilhamprabuzakys's profile views" /> 
-	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/ilhamprabuzakys?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br><br><br>
-
-<br>
+- <img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="ilhamprabuzakys's profile views" /> <a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/ilhamprabuzakys?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
